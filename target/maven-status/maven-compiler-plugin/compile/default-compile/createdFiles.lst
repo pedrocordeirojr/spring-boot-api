@@ -1,0 +1,6 @@
+com\loja\cadastro\model\Cliente.class
+com\loja\cadastro\repository\ClienteRepository.class
+com\loja\cadastro\CadastroApplication.class
+com\loja\cadastro\service\impl\ClienteServiceImpl.class
+com\loja\cadastro\service\ClienteService.class
+com\loja\cadastro\controller\ClienteController.class
